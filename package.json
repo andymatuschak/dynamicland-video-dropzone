@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-fileupload": "^0.3.0",
+    "optimist": "^0.6.1",
+    "sanitize-filename": "^1.6.1"
+  }
+}
